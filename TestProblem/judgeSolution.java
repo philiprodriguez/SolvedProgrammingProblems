@@ -1,0 +1,1 @@
+/* There is no judge solution for this problem. */
